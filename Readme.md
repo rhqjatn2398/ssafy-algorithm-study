@@ -59,10 +59,14 @@ SSAFY 9기 알고리즘 스터디
     이 때의 commit message는 다음과 같습니다.
 
     	 git commit -m "docs : BOJ 1051 S3 숫자정사각형"
+         
+3. main README.md 파일에 주차 별 문제를 추가할 때의 commit message는 다음과 같습니다.
 
-3. main README.md 파일을 수정할 때의 commit message는 다음과 같습니다.
+   	 git commit -m "docs : update week # problems"
 
-   	 git commit -m "docs : main README update"
+4. main README.md 파일을 수정할 때의 commit message는 다음과 같습니다.
+
+   	 git commit -m "docs : update README.md"
 
 5. 파일을 삭제할 경우 commit message는 다음과 같습니다
 
