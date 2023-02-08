@@ -104,5 +104,9 @@ SSAFY 9기 알고리즘 스터디
 
 ## 📌 Solved Problems
 ### 🚩 week 1
-| Type | 문제 | 제목 | 유형 | rank | <br>
+| Type | 문제 | 제목 | 유형 | rank |
 | -- |--| -- |--|--|
+| BOJ | 9935 | [문자열 폭발](https://www.acmicpc.net/problem/9935) | 스택, 문자열 | gold4 |
+| BOJ | 21939 | [문제 추천 시스템 Version 1](https://www.acmicpc.net/problem/21939) | 우선순위 큐 | gold4 |
+| BOJ | 3190 | [뱀](https://www.acmicpc.net/problem/3190) | 구현, 덱, 큐 | gold4 |
+| BOJ | 1655 | [가운데를 말해요](https://www.acmicpc.net/problem/1655) | 우선순위 큐 | gold2 |
