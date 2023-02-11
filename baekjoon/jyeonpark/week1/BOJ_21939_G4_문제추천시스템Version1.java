@@ -12,12 +12,10 @@ public class Main {
 	static class Problem implements Comparable<Problem> {
 		int p; // 문제번호
 		int l; // 난이도
-		boolean isRecommended;
 
-		public Problem(int p, int l, boolean isRecommended) {
+		public Problem(int p, int l) {
 			this.p = p;
 			this.l = l;
-			this.isRecommended = isRecommended;
 		}
 
 		@Override
@@ -44,7 +42,7 @@ public class Main {
 			st = new StringTokenizer(br.readLine());
 			int p = Integer.parseInt(st.nextToken());
 			int l = Integer.parseInt(st.nextToken());
-			Problem problem = new Problem(p, l, true);
+			Problem problem = new Problem(p, l);
 			maxHeap.add(problem);
 			minHeap.add(problem);
 		}
@@ -56,7 +54,7 @@ public class Main {
 			case "add":
 				int p = Integer.parseInt(st.nextToken());
 				int l = Integer.parseInt(st.nextToken());
-				Problem problem = new Problem(p, l, false);
+				Problem problem = new Problem(p, l);
 				maxHeap.add(problem);
 				minHeap.add(problem);
 				break;
