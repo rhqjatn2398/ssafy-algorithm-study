@@ -17,22 +17,31 @@ SSAFY 9기 알고리즘 스터디
 <br><br>
 
 ## 📌 Convention
-###  1️⃣ Code Convention
+<details>
+<summary>1️⃣ Code Convention</summary>
+<div markdown="1">
 각 코드 별 목적을 주석으로 작성합니다.
 변수와 함수 이름 또한 역할을 알 수 있도록 간단한 주석을 덧붙입니다.
+</div>
+</details>
 
-<br>
 
-### 2️⃣ Project Convention
-
+<details>
+<summary>2️⃣ Project Convention</summary>
+<div markdown="1">
 각 멤버별 프로젝트 구조는 다음과 같습니다
 **프로젝트이름/week번호/플랫폼_문제번호_레벨_문제이름/...**
 
     baekjoon/username/week15/BOJ_1051_S3_숫자정사각형/...
 
-<br>
 
-### 3️⃣ Commit Convention
+</div>
+</details>
+
+
+<details>
+<summary>3️⃣ Commit Convention</summary>
+<div markdown="1">
 한번에 모든 파일을 add하지 않고 type별로 분리하여 commit 합니다.
 
     docs : README.md 등 문서 작성 및 수정
@@ -41,7 +50,7 @@ SSAFY 9기 알고리즘 스터디
     add : 기존에 푼 문제에 대한 추가
     remove : 코드 및 문서 삭제
     merge : pr(pull request)을 통해 자신의 repo에서 원본 repo로 merge하기
-<br>
+
 
 적용 예시 ::
 1. BOJ의 1051번 숫자 정사각형 (silver3) 문제를 풀었다면
@@ -72,9 +81,12 @@ SSAFY 9기 알고리즘 스터디
 
    	 git commit -m "remove : 삭제파일"
 
-<br>
+</div>
+</details>
 
-### 4️⃣ Review Convention
+<details>
+<summary>4️⃣ Review Convention</summary>
+<div markdown="1">
 1. Pull Request의 제목은 다음과 같이 통일합니다.
    **이름 : 문제플랫폼 문제번호 문제등급 문제제목**
 
@@ -103,8 +115,9 @@ SSAFY 9기 알고리즘 스터디
            코드가 push된 브랜치(a에서 생성한 jodawoooon/boj-1051)에서   
            organization repo의 main 브랜치로 Pull Request를 보냅니다.
 
-
-<br><br>
+</div>
+</details>
+<br>
 
 ## 📌 Solved Problems
 ### 🚩 week 1
