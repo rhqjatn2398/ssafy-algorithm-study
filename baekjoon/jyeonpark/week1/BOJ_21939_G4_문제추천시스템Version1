@@ -17,32 +17,6 @@ public class Main {
 			this.l = l;
 		}
 
-		@Override
-		public int hashCode() {
-			final int prime = 31;
-			int result = 1;
-			result = prime * result + l;
-			result = prime * result + p;
-			return result;
-		}
-
-		@Override
-		public boolean equals(Object obj) {
-			if (this == obj)
-				return true;
-			if (obj == null)
-				return false;
-			if (getClass() != obj.getClass())
-				return false;
-			Problem other = (Problem) obj;
-			if (l != other.l)
-				return false;
-			if (p != other.p)
-				return false;
-			return true;
-		}
-		
-		
 	}
 
 	public static void main(String[] args) throws IOException {
