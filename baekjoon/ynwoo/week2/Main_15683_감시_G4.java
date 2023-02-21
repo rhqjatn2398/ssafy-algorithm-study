@@ -100,7 +100,10 @@ public class Main_15683_감시_G4 {
 
 		int cctvType = cctvNums.get(cnt);
 		switch (cctvType) {
+		// 0 1 2 3
+		// ← ↑ → ↓
 		case 1:
+			// 1번 cctv : 1가지 방향
 			directionInfos[cnt] = new int[1];
 			directionInfos[cnt][0] = 0;
 			generateCases(cnt + 1);
@@ -167,6 +170,8 @@ public class Main_15683_감시_G4 {
 	}
 
 	// i번째에 해당하는 cctv를 di[directionIdx] 방향으로 작동시킨다
+	// 0 1 2 3
+	// ← ↑ → ↓
 	private static void activateCCTV(int i, int directionIdx, int[][] arr) {
 		// 사무실 범위를 벗어나거나 벽을 만날 때 까지 cctv를 비춘다.
 		int currentI = coordinates.get(i).x;
