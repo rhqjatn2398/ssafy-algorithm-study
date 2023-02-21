@@ -14,8 +14,8 @@ public class Main_15683_감시_G4 {
 	static int[][] arr;
 	//                       ←           ↑         →         ↓
 	static int[][] di = { { 0, -1 }, { -1, 0 }, { 0, 1 }, { 1, 0 } };
-	// 
 	static int[][] directionInfos; // cctv종류에 따라 가능한 방향 정보들 저장
+	
 	static List<Point> coordinates = new ArrayList<Point>(); // cctv 좌표 위치 정보
 	static List<Integer> cctvNums = new ArrayList<Integer>(); // cctv 종류 정보
 
@@ -37,11 +37,6 @@ public class Main_15683_감시_G4 {
 				}
 			}
 		}
-//		for (int i = 0; i < coordinates.size(); i++) {
-//			bw.write(coordinates.get(i) + " " + cctvNums.get(i));
-//			bw.write("\n");
-//			bw.flush();
-//		}
 
 		// 구현
 		directionInfos = new int[coordinates.size()][]; // cctv종류에 따라 가변적으로 저장
