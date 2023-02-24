@@ -142,7 +142,7 @@ SSAFY 9기 18반 알고리즘 스터디
 ### 🚩 week 3
 | Type | 문제 | 제목 | 유형 | rank |
 | -- |--| -- |--|--|
-| BOJ | 5639 | [이진 검색 트리](https://www.acmicpc.net/problem/5639) | 그래프 이론, 그래프 탐색, 트리, 재귀 | gold5 |
-| BOJ | 1600 | [말이 되고픈 원숭이](https://www.acmicpc.net/problem/1600) | 그래프 이론, 그래프 탐색, 너비 우선 탐색 | gold3 |
-| BOJ | 2206 | [벽 부수고 이동하기](https://www.acmicpc.net/problem/2206) | 그래프 이론, 그래프 탐색, 너비 우선 탐색 | gold3 |
-| BOJ | 2250 | [트리의 높이와 너비](https://www.acmicpc.net/problem/2250) | 그래프 이론, 그래프 탐색, 트리, 깊이 우선 탐색 | gold2 |
+| BOJ | 5639 | [이진 검색 트리](https://www.acmicpc.net/problem/5639) | 트리, 재귀, 그래프 탐색 | gold5 |
+| BOJ | 1600 | [말이 되고픈 원숭이](https://www.acmicpc.net/problem/1600) | 너비 우선 탐색 | gold3 |
+| BOJ | 2206 | [벽 부수고 이동하기](https://www.acmicpc.net/problem/2206) | 너비 우선 탐색 | gold3 |
+| BOJ | 2250 | [트리의 높이와 너비](https://www.acmicpc.net/problem/2250) | 트리, 깊이 우선 탐색 | gold2 |
