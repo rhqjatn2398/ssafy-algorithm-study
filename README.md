@@ -146,3 +146,12 @@ SSAFY 9기 18반 알고리즘 스터디
 | BOJ | 1600 | [말이 되고픈 원숭이](https://www.acmicpc.net/problem/1600) | 너비 우선 탐색 | gold3 |
 | BOJ | 2206 | [벽 부수고 이동하기](https://www.acmicpc.net/problem/2206) | 너비 우선 탐색 | gold3 |
 | BOJ | 2250 | [트리의 높이와 너비](https://www.acmicpc.net/problem/2250) | 트리, 깊이 우선 탐색 | gold2 |
+
+### 🚩 week 3
+| Type | 문제 | 제목 | 유형 | rank |
+| -- |--| -- |--|--|
+| BOJ | 2234 | [성곽](https://www.acmicpc.net/problem/2234) | 너비 우선 탐색, 비트마스킹 | gold3 |
+| BOJ | 1493 | [박스 채우기](https://www.acmicpc.net/problem/1493) | 수학, 그리디, 분할 정복 | gold3 |
+| BOJ | 2812 | [크게 만들기](https://www.acmicpc.net/problem/2812) | 그리디, 스택 | gold3 |
+| BOJ | 10830 | [행렬 제곱](https://www.acmicpc.net/problem/10830) | 분할 정복, 선형대수학 | gold4 |
+
