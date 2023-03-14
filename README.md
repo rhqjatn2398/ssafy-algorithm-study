@@ -155,3 +155,11 @@ SSAFY 9기 18반 알고리즘 스터디
 | BOJ | 2812 | [크게 만들기](https://www.acmicpc.net/problem/2812) | 그리디, 스택 | gold3 |
 | BOJ | 10830 | [행렬 제곱](https://www.acmicpc.net/problem/10830) | 분할 정복, 선형대수학 | gold4 |
 
+### 🚩 week 5
+| Type | 문제 | 제목 | 유형 | rank |
+| -- |--| -- |--|--|
+| BOJ | 3020 | [개똥벌레](https://www.acmicpc.net/problem/3020) | 이분 탐색, 누적 합 | gold5 |
+| BOJ | 4195 | [친구 네트워크](https://www.acmicpc.net/problem/4195) | 자료 구조, 해시를 사용한 집합과 맵, 분리 집합 | gold2 |
+| BOJ | 1766 | [문제집](https://www.acmicpc.net/problem/1766) | 자료 구조, 그래프 이론, 우선순위 큐, 위상 정렬 | gold2 |
+| BOJ | 2042 | [구간 합 구하기](https://www.acmicpc.net/problem/2042) | 자료 구조, 세그먼트 트리 | gold1 |
+
