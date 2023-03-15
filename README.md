@@ -163,3 +163,10 @@ SSAFY 9기 18반 알고리즘 스터디
 | BOJ | 1766 | [문제집](https://www.acmicpc.net/problem/1766) | 자료 구조, 그래프 이론, 우선순위 큐, 위상 정렬 | gold2 |
 | BOJ | 2042 | [구간 합 구하기](https://www.acmicpc.net/problem/2042) | 자료 구조, 세그먼트 트리 | gold1 |
 
+### 🚩 week 6
+| Type | 문제 | 제목 | 유형 | rank |
+| -- |--| -- |--|--|
+| BOJ | 2631 | [줄세우기](https://www.acmicpc.net/problem/2631) | DP | gold4 |
+| BOJ | 1644 | [소수의 연속합](https://www.acmicpc.net/problem/1644) | 두 포인터, 소수 판정 | gold3 |
+| BOJ | 1937 | [욕심쟁이 판다](https://www.acmicpc.net/problem/1937) | DP, 깊이 우선 탐색 | gold3 |
+| BOJ | 1727 | [커플 만들기](https://www.acmicpc.net/problem/1727) | DP, 그리디, 정렬 | gold2 |
