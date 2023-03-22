@@ -159,9 +159,9 @@ SSAFY 9기 18반 알고리즘 스터디
 | Type | 문제 | 제목 | 유형 | rank |
 | -- |--| -- |--|--|
 | BOJ | 3020 | [개똥벌레](https://www.acmicpc.net/problem/3020) | 이분 탐색, 누적 합 | gold5 |
-| BOJ | 4195 | [친구 네트워크](https://www.acmicpc.net/problem/4195) | 자료 구조, 해시를 사용한 집합과 맵, 분리 집합 | gold2 |
-| BOJ | 1766 | [문제집](https://www.acmicpc.net/problem/1766) | 자료 구조, 그래프 이론, 우선순위 큐, 위상 정렬 | gold2 |
-| BOJ | 2042 | [구간 합 구하기](https://www.acmicpc.net/problem/2042) | 자료 구조, 세그먼트 트리 | gold1 |
+| BOJ | 4195 | [친구 네트워크](https://www.acmicpc.net/problem/4195) | 해시, 분리 집합 | gold2 |
+| BOJ | 1766 | [문제집](https://www.acmicpc.net/problem/1766) | 우선순위 큐, 위상 정렬 | gold2 |
+| BOJ | 2042 | [구간 합 구하기](https://www.acmicpc.net/problem/2042) | 세그먼트 트리 | gold1 |
 
 ### 🚩 week 6
 | Type | 문제 | 제목 | 유형 | rank |
@@ -170,3 +170,13 @@ SSAFY 9기 18반 알고리즘 스터디
 | BOJ | 1644 | [소수의 연속합](https://www.acmicpc.net/problem/1644) | 두 포인터, 소수 판정 | gold3 |
 | BOJ | 1937 | [욕심쟁이 판다](https://www.acmicpc.net/problem/1937) | DP, 깊이 우선 탐색 | gold3 |
 | BOJ | 1727 | [커플 만들기](https://www.acmicpc.net/problem/1727) | DP, 그리디, 정렬 | gold2 |
+
+
+### 🚩 week 7
+| Type | 문제 | 제목 | 유형 | rank |
+| -- |--| -- |--|--|
+| BOJ | 13549 | [숨바꼭질 3](https://www.acmicpc.net/problem/13549) | 다익스트라, 너비 우선탐색 | gold5 |
+| BOJ | 11404 | [플로이드](https://www.acmicpc.net/problem/11404) | 플로이드–워셜 | gold4 |
+| BOJ | 11657 | [타임머신](https://www.acmicpc.net/problem/11657) | 벨만-포드 | gold3 |
+| BOJ | 1238 | [파티](https://www.acmicpc.net/problem/1238) | 다익스트라 | gold3 |
+
