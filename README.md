@@ -138,3 +138,45 @@ SSAFY 9기 18반 알고리즘 스터디
 | BOJ | 1941 | [소문난 칠공주](https://www.acmicpc.net/problem/1941) | 그래프 탐색, 조합론, 백트래킹 | gold3 |
 | BOJ | 14725 | [개미굴](https://www.acmicpc.net/problem/14725) | 문자열, 트리, 트라이 | gold3 |
 | BOJ | 1167 | [트리의 지름](https://www.acmicpc.net/problem/1167) | 트리, 깊이 우선 탐색 | gold2 |
+
+### 🚩 week 3
+| Type | 문제 | 제목 | 유형 | rank |
+| -- |--| -- |--|--|
+| BOJ | 5639 | [이진 검색 트리](https://www.acmicpc.net/problem/5639) | 트리, 재귀, 그래프 탐색 | gold5 |
+| BOJ | 1600 | [말이 되고픈 원숭이](https://www.acmicpc.net/problem/1600) | 너비 우선 탐색 | gold3 |
+| BOJ | 2206 | [벽 부수고 이동하기](https://www.acmicpc.net/problem/2206) | 너비 우선 탐색 | gold3 |
+| BOJ | 2250 | [트리의 높이와 너비](https://www.acmicpc.net/problem/2250) | 트리, 깊이 우선 탐색 | gold2 |
+
+### 🚩 week 4
+| Type | 문제 | 제목 | 유형 | rank |
+| -- |--| -- |--|--|
+| BOJ | 2234 | [성곽](https://www.acmicpc.net/problem/2234) | 너비 우선 탐색, 비트마스킹 | gold3 |
+| BOJ | 1493 | [박스 채우기](https://www.acmicpc.net/problem/1493) | 수학, 그리디, 분할 정복 | gold3 |
+| BOJ | 2812 | [크게 만들기](https://www.acmicpc.net/problem/2812) | 그리디, 스택 | gold3 |
+| BOJ | 10830 | [행렬 제곱](https://www.acmicpc.net/problem/10830) | 분할 정복, 선형대수학 | gold4 |
+
+### 🚩 week 5
+| Type | 문제 | 제목 | 유형 | rank |
+| -- |--| -- |--|--|
+| BOJ | 3020 | [개똥벌레](https://www.acmicpc.net/problem/3020) | 이분 탐색, 누적 합 | gold5 |
+| BOJ | 4195 | [친구 네트워크](https://www.acmicpc.net/problem/4195) | 해시, 분리 집합 | gold2 |
+| BOJ | 1766 | [문제집](https://www.acmicpc.net/problem/1766) | 우선순위 큐, 위상 정렬 | gold2 |
+| BOJ | 2042 | [구간 합 구하기](https://www.acmicpc.net/problem/2042) | 세그먼트 트리 | gold1 |
+
+### 🚩 week 6
+| Type | 문제 | 제목 | 유형 | rank |
+| -- |--| -- |--|--|
+| BOJ | 2631 | [줄세우기](https://www.acmicpc.net/problem/2631) | DP | gold4 |
+| BOJ | 1644 | [소수의 연속합](https://www.acmicpc.net/problem/1644) | 두 포인터, 소수 판정 | gold3 |
+| BOJ | 1937 | [욕심쟁이 판다](https://www.acmicpc.net/problem/1937) | DP, 깊이 우선 탐색 | gold3 |
+| BOJ | 1727 | [커플 만들기](https://www.acmicpc.net/problem/1727) | DP, 그리디, 정렬 | gold2 |
+
+
+### 🚩 week 7
+| Type | 문제 | 제목 | 유형 | rank |
+| -- |--| -- |--|--|
+| BOJ | 13549 | [숨바꼭질 3](https://www.acmicpc.net/problem/13549) | 다익스트라, 너비 우선탐색 | gold5 |
+| BOJ | 11404 | [플로이드](https://www.acmicpc.net/problem/11404) | 플로이드–워셜 | gold4 |
+| BOJ | 11657 | [타임머신](https://www.acmicpc.net/problem/11657) | 벨만-포드 | gold3 |
+| BOJ | 1238 | [파티](https://www.acmicpc.net/problem/1238) | 다익스트라 | gold3 |
+
