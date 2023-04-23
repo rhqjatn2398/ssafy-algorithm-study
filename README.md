@@ -180,3 +180,10 @@ SSAFY 9기 18반 알고리즘 스터디
 | BOJ | 11657 | [타임머신](https://www.acmicpc.net/problem/11657) | 벨만-포드 | gold3 |
 | BOJ | 1238 | [파티](https://www.acmicpc.net/problem/1238) | 다익스트라 | gold3 |
 
+### 🚩 week 8
+| Type | 문제 | 제목 | 유형 | rank |
+| -- |--| -- |--|--|
+| BOJ | 12015 | [가장 긴 증가하는 부분 수열 2](https://www.acmicpc.net/problem/12015) | 이분 탐색, o(nlogn) | gold2 |
+| BOJ | 21609 | [상어중학교](https://www.acmicpc.net/problem/21609) | 구현, 그래프 탐색 | gold2 |
+| BOJ | 2933 | [미네랄](https://www.acmicpc.net/problem/2933) | 구현, 너비 우선 탐색 | gold2 |
+| BOJ | 1701 | [Cubeditor](https://www.acmicpc.net/problem/1701) | kmp | gold3 |
