@@ -187,3 +187,11 @@ SSAFY 9기 18반 알고리즘 스터디
 | BOJ | 21609 | [상어중학교](https://www.acmicpc.net/problem/21609) | 구현, 그래프 탐색 | gold2 |
 | BOJ | 2933 | [미네랄](https://www.acmicpc.net/problem/2933) | 구현, 너비 우선 탐색 | gold2 |
 | BOJ | 1701 | [Cubeditor](https://www.acmicpc.net/problem/1701) | kmp | gold3 |
+
+### 🚩 week 9
+| Type | 문제 | 제목 | 유형 | rank |
+| -- |--| -- |--|--|
+| BOJ | 1253 | [좋다](https://www.acmicpc.net/problem/1253) | 이분 탐색, 두 포인터 | gold4 |
+| BOJ | 2573 | [빙산](https://www.acmicpc.net/problem/2573) |  그래프 탐색 | gold4 |
+| BOJ | 1562 | [계단 수](https://www.acmicpc.net/problem/1562) | DP, 비트 필드를 이용한 DP | gold1 |
+| BOJ | 10942 | [팰린드롬?](https://www.acmicpc.net/problem/1701) | DP | gold4 |
