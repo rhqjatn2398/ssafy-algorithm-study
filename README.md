@@ -195,3 +195,11 @@ SSAFY 9기 18반 알고리즘 스터디
 | BOJ | 2573 | [빙산](https://www.acmicpc.net/problem/2573) |  그래프 탐색 | gold4 |
 | BOJ | 1562 | [계단 수](https://www.acmicpc.net/problem/1562) | DP, 비트 필드를 이용한 DP | gold1 |
 | BOJ | 10942 | [팰린드롬?](https://www.acmicpc.net/problem/1701) | DP | gold4 |
+
+### 🚩 week 10
+| Type | 문제 | 제목 | 유형 | rank |
+| -- |--| -- |--|--|
+| PROG | 72411 | [메뉴 리뉴얼](https://school.programmers.co.kr/learn/courses/30/lessons/72411) | | Lv.2 |
+| PROG | 67258 | [보석 쇼핑](https://school.programmers.co.kr/learn/courses/30/lessons/67258) | | Lv.3 |
+| PROG | 64064 | [불량 사용자](https://school.programmers.co.kr/learn/courses/30/lessons/64064) | | Lv.3 |
+| PROG | 72413 | [합승 택시 요금](https://school.programmers.co.kr/learn/courses/30/lessons/72413) | | Lv.3 |
