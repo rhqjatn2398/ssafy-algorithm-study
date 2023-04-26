@@ -24,7 +24,7 @@ class Solution {
                     map.remove(gems[left]); 
                 }
                 left++;
-                
+               
             } else{
                 if (right==n-1) break;
                 right++;
