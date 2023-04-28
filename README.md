@@ -203,3 +203,11 @@ SSAFY 9기 18반 알고리즘 스터디
 | PROG | 67258 | [보석 쇼핑](https://school.programmers.co.kr/learn/courses/30/lessons/67258) | | Lv.3 |
 | PROG | 64064 | [불량 사용자](https://school.programmers.co.kr/learn/courses/30/lessons/64064) | | Lv.3 |
 | PROG | 72413 | [합승 택시 요금](https://school.programmers.co.kr/learn/courses/30/lessons/72413) | | Lv.3 |
+
+### 🚩 week 11
+| Type | 문제 | 제목 | 유형 | rank |
+| -- |--| -- |--|--|
+| PROG | 42890 | [후보키](https://school.programmers.co.kr/learn/courses/30/lessons/42890) | | Lv.2 |
+| PROG | 92344 | [파괴되지 않은 건물](https://school.programmers.co.kr/learn/courses/30/lessons/92344) | | Lv.3 |
+| PROG | 60059 | [자물쇠와 열쇠](https://school.programmers.co.kr/learn/courses/30/lessons/60059) | | Lv.3 |
+| PROG | 72414 | [광고 삽입](https://school.programmers.co.kr/learn/courses/30/lessons/72414) | | Lv.3 |
