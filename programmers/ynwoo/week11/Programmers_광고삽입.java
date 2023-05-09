@@ -20,7 +20,7 @@ class Solution {
 		int startTime = 0;
 		long curTotalTime = 0;
 		for (int i = 0; i < advSec; i++) {
-			curTotalTime += viewersPerSec[i];
+			curTotalTime += viewersPerSec[i]; 
 		}
 		long max = curTotalTime;
 
