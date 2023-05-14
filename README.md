@@ -211,3 +211,11 @@ SSAFY 9기 18반 알고리즘 스터디
 | PROG | 92344 | [파괴되지 않은 건물](https://school.programmers.co.kr/learn/courses/30/lessons/92344) | | Lv.3 |
 | PROG | 60059 | [자물쇠와 열쇠](https://school.programmers.co.kr/learn/courses/30/lessons/60059) | | Lv.3 |
 | PROG | 72414 | [광고 삽입](https://school.programmers.co.kr/learn/courses/30/lessons/72414) | | Lv.3 |
+
+### 🚩 week 12
+| Type | 문제 | 제목 | 유형 | rank |
+| -- |--| -- |--|--|
+| SWEA | 2105 | [디저트 카페](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5VwAr6APYDFAWu) | | 모의 SW 역량테스트 |
+| SWEA | 2117 | [홈 방범 서비스](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5V61LqAf8DFAWu#none) | | 모의 SW 역량테스트 |
+| SWEA | 2115 | [벌꿀채취](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5V4A46AdIDFAWu) | | 모의 SW 역량테스트 |
+| SWEA | 5650 | [핀볼 게임](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRF8s6ezEDFAUo) | | 모의 SW 역량테스트 |
